@@ -1,0 +1,4 @@
+C:\html\Practical\Practical\bin\Practical.dll
+C:\html\Practical\Practical\bin\Practical.pdb
+C:\html\Practical\Practical\obj\Debug\Practical.dll
+C:\html\Practical\Practical\obj\Debug\Practical.pdb
